@@ -4,12 +4,24 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+##关于本站
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+打算留给未来
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+记录生活、学习和游戏
+
+##关于博主
+
+ID: GBA
+- 92年生人
+- 老大不小
+- SEUer
+- 爱好
+    - 电子游戏
+    - 电子小说
+    - 少年漫画
+    - 动画片儿
+- 很现实的理想主义者
+- 拥有出门99%被问路的特技
+
+目前的状态是前端工程师 2016.3.17
