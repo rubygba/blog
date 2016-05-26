@@ -4,17 +4,17 @@ title:  "游戏开始"
 date:   2016-04-16 23:05:03 +0800
 categories: jekyll Mac proxy
 ---
-#jekyll的安装与配置 || Mac终端socks5代理
+# jekyll的安装与配置 || Mac终端socks5代理
 
-##前言
+## 前言
 
 由于国情，一些很方便的包和库管理工具在大陆使用总会遇到timeout的问题。jetkyll是基于ruby的静态博客生成程序，可以托管在Git Pages上，支持程序员上传.md格式的博文。
 
-##1. Mac的依赖包管理Homebrew
+## 1. Mac的依赖包管理Homebrew
 
 Install Homebrew.
 
-```bash
+``` bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
@@ -22,7 +22,7 @@ Homebrew installs packages to their own directory and then symlinks their files 
 
 Fox example:
 
-```bash
+``` bash
 $ cd /usr/local
 $ find Cellar
 Cellar/wget/1.16.1
@@ -35,9 +35,9 @@ bin/wget -> ../Cellar/wget/1.16.1/bin/wget
 
 如果无法在线安装brew，请跳过本文前往'https://github.com/rofl0r/proxychains-ng'寻找离线安装方法。
 
-##2. 为Mac终端添加socks5代理
+## 2. 为Mac终端添加socks5代理
 
-```bash
+``` bash
 brew install proxychains-ng
 ```
 
@@ -52,7 +52,7 @@ X.XX为安装的proxyvchains-ng版本号。
 
 或者使用atom编辑proxychains.conf（已安装atom shell）：
 
-```bash
+``` bash
 atom /usr/local/Cellar/proxyvchains-ng/X.XX/etc/proxychains.conf
 ```
 
@@ -60,21 +60,21 @@ atom /usr/local/Cellar/proxyvchains-ng/X.XX/etc/proxychains.conf
 
 安装完成，在需要代理的命令前加上'proxychains4'即可。
 
-##3. 安装/更新ruby
+## 3. 安装/更新ruby
 
-```bash
+``` bash
 brew install ruby
 ```
 
-##4. 安装jekyll
+## 4. 安装jekyll
 
-```bash
+``` bash
 proxychains4 gem install jekyll
 ```
 
-##5. 用jektll创建博客吧
+## 5. 用jektll创建博客吧
 
-```bash
+``` bash
 jekyll new my-blog
 cd my-blog
 jekyll serve
