@@ -63,7 +63,7 @@ atom /usr/local/Cellar/proxyvchains-ng/X.XX/etc/proxychains.conf
 
 将 'socks4 127.0.0.1 9095' 改为本地ss代理，如： '127.0.0.1 8080' 。
 
-安装完成，在需要代理的命令前加上'proxychains4'即可。
+安装完成，在需要代理的命令前加上 'proxychains4' 即可。
 
 ### 3. 安装/更新ruby
 
