@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Atom编辑器Vue插件设置"
-date:   2016-04-17 14:30:00 +0800
+date:   2016-06-27 14:30:00 +0800
 categories: Atom Stylus plugins packages emmet
 ---
 
