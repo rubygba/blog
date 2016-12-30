@@ -13,4 +13,4 @@ categories: node npm
 解决方案：
 * 1. `npm rebuild node-sass`
 * 2. 查看node_modules下源码。删除注释
-* 3. 进入 `C:\Users\randy\Documents\GitHub\topcoder-app-dev\node_modules\.3.8.0@react-dropzone` 目录，执行 `npm install` 安装该模块build依赖
+* 3. 进入 `C:\Users\......\node_modules\.3.8.0@react-dropzone` 目录，执行 `npm install` 安装该模块build依赖
