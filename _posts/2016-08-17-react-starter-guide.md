@@ -12,4 +12,7 @@ React无疑是今年最火的前端框架了，得益于Facebook的名气、Angu
 简单来说，React全家桶为你提供了Facebook构建巨型Web应用的前端框架，它是全新的前端最佳实践。
 
 #### 注1：以下React均指React全家桶，包括React.js、JSX、Redux
+
 #### 注2：以下代码均使用ES2015语法、采取函数式编程的写法，不了解ES2015、函数式编程请放弃React（忠告）
+
+(坑)
