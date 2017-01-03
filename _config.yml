@@ -8,12 +8,12 @@
 # Site settings
 title: 直到世界尽头
 email: rubygba@foxmail.com
-description: > # this means to ignore newlines until "baseurl:" 
+description: > # this means to ignore newlines until "baseurl:"
   Once I am human I will talk to you about things that are of little or no importance.
   I will avoid religion and politics because if we disagree, you will not like me any more.
   by Mal
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://rubygba.github.io/blog" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://rubygba.github.io" # the base hostname & protocol for your site
 twitter_username: nil
 github_username:  rubygba
 
