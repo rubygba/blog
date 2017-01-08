@@ -25,7 +25,7 @@ Homebrew installs packages to their own directory and then symlinks their files 
 
 查看已安装的包：
 
-Fox example:
+For example:
 
 ``` bash
 $ cd /usr/local
