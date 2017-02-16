@@ -2,7 +2,7 @@
 layout: post
 title: "React.js初学者教程"
 date: 2016-08-17 11:42:44 +0800
-categories: React JSX Redux ES6 函数式
+tags: React JSX Redux ES6 函数式
 ---
 
 ## 前言

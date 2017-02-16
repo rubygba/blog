@@ -2,7 +2,7 @@
 layout: post
 title: "npm install node_modules bugs fixed"
 date: 2016-12-30 16:39:28 +0800
-categories: node npm
+tags: node npm
 ---
 
 #### 最近在windows下安装一个依赖极多的前端项目时遇到了各种bug，记录下：

@@ -2,7 +2,7 @@
 layout: post
 title:  "jekyll的安装 || Mac终端socks5代理"
 date:   2016-04-17 20:10:08 +0800
-categories: jekyll Mac proxy
+tags: jekyll Mac proxy
 ---
 
 ### 前言
