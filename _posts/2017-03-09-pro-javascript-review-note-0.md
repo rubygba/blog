@@ -2,7 +2,7 @@
 layout: post
 title: "Javascript高级程序设计复习（一）"
 date: 2017-03-09 11:04:07 +0800
-tags: tag
+tags: memo
 ---
 
 ### 前言
