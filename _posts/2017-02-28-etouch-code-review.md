@@ -15,7 +15,7 @@ eTouch源码不到250行，使用微积分算法识别手势路径，应用于�
 
 ### demo
 
-[eTouch演示和说明](http://meckodo.github.io/eTouch/clock)
+[eTouch演示和说明](https://meckodo.github.io/eTouch/clock)
 
 ### eTouch使用
 
@@ -100,7 +100,7 @@ status描述触控类型：swiper滑动中、tap轻触、up、right、down、lef
 
 ### 项目中的应用
 
-[滑动删除选项](http://meckodo.github.io/eTouch/list.html)
+[滑动删除选项](https://meckodo.github.io/eTouch/list.html)
 
 demo里左右滑动的距离使用了eTouch的返回对象touch，计算 `touch.distanceX` 来得到css效果需要的像素值。
 

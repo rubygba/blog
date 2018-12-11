@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I will avoid religion and politics because if we disagree, you will not like me any more.
   by Mal
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://rubygba.github.io" # the base hostname & protocol for your site
+url: "https://rubygba.github.io" # the base hostname & protocol for your site
 twitter_username: nil
 github_username:  rubygba
 
